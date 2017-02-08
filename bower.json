@@ -1,0 +1,20 @@
+{
+  "name": "purescript-openwhisk",
+  "homepage": "https://github.com/yjpark/purescript-openwhisk",
+  "authors": [
+    "YJ Park <yjpark@gmail.com>"
+  ],
+  "description": "Use openwhisk with purescript",
+  "main": "",
+  "keywords": [
+    "openwhisk"
+  ],
+  "license": "Apache 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
